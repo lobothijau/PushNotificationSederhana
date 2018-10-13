@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "34167502100",
+    "firebase_url": "https://pushnotificationsederhana.firebaseio.com",
+    "project_id": "pushnotificationsederhana",
+    "storage_bucket": "pushnotificationsederhana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34167502100:android:cca8f4b8161f9cf8",
+        "android_client_info": {
+          "package_name": "id.droidindonesia.pushnotificationsederhana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34167502100-rvkceimd5pbqiq3kl0dl1f0ns52ho2ci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.droidindonesia.pushnotificationsederhana",
+            "certificate_hash": "079f2958e4fc64bcdc41662a9cf01520ee9c9721"
+          }
+        },
+        {
+          "client_id": "34167502100-t74d3s29pccnb47kggtf4kkfk7691dj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdA7jf47soreSrnt7QacWYzx4Ia0mpm1c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34167502100-t74d3s29pccnb47kggtf4kkfk7691dj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
